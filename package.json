@@ -1,0 +1,14 @@
+{
+  "name": "electron-sample",
+  "version": "1.0.0",
+  "description": "sample electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "madi",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^18.0.3"
+  }
+}
